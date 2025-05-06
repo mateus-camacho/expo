@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo_tutorial",
-    "slug": "expo_tutorial",
+    "name": "ExpoTutorial",
+    "slug": "ExpoTutorial",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
